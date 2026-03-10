@@ -31,3 +31,6 @@ Thumbs.db
 
 # Error logs
 error_log
+
+# macOS resource forks
+__MACOSX/
