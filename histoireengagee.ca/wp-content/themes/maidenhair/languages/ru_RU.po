@@ -1,0 +1,1258 @@
+# Translation of the WordPress theme MaidenHair 1.0 by Tomas Toman.
+# This file is distributed under the same license as the MaidenHair package.
+# Tomas Toman <webdesign@tomastoman.cz>, 2014.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MaidenHair v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-22 17:12+0100\n"
+"PO-Revision-Date: 2014-10-09 09:34+0100\n"
+"Last-Translator: andew <andew@andew.ru>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+
+# @ maidenhair
+#: 404.php:9 search.php:44
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ maidenhair
+#: 404.php:13
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"К сожалению ничего не найдено по Вашему запросу. Попробуйте воспользоваться "
+"поиском."
+
+# @ maidenhair
+#: archive.php:11
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Дневной архив: %s"
+
+# @ maidenhair
+#: archive.php:13
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Месячный архив: %s"
+
+# @ maidenhair
+#: archive.php:15
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Годовой архив: %s"
+
+# @ maidenhair
+#: archive.php:17
+msgid "Archive"
+msgstr "Архив"
+
+# @ maidenhair
+#: author.php:11
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Архив автора: %s"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:157 functions.php:536
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:158 functions.php:540
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Что то пошло не так."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Вернуться к панели инструментов"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был активирован успешно:"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Игнорировать это уведомление"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Личное Хранилище"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "WordPress репозитория"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Необходимый"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Рекомендованный"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Не установленный"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Установленный но не активированный"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для инсталляции или активации. <a href=\"%1$s\" title="
+"\"Вернуться к панели инструментов\">Вернуться к панели инструментов</a>"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Плагин"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Источник"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Тип"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Статус"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Установить"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Активировать"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Установочный пакет не доступен."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка установочного пакета с <span class=\"code\">%s</span>&#8230;"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Неудачная установка плагина."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Неудачная активация плагина."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации начался. Этот процесс может занять некоторое "
+"время, поэтому, пожалуйста, будьте терпеливы."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Показать детали"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс инсталляции запущен. Этот процесс может занять некоторое время, "
+"пожалуйста, будьте терпеливы."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+# @ maidenhair
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели инструментов."
+
+# @ maidenhair
+#: comments.php:21 content-archives-audio.php:22 content-archives-image.php:21
+#: content-archives-standard.php:24 content-archives-status.php:21
+#: content-archives-video.php:22 content-grid-audio.php:26
+#: content-grid-standard.php:28 content-grid-status.php:25
+#: content-grid-video.php:23 single.php:28
+#: functions/fe/widget-posts-column.php:114
+#: functions/fe/widget-posts-column.php:130
+#: functions/fe/widget-posts-list.php:112
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Комментарий"
+msgstr[1] "%1$s Комментарии"
+
+# @ maidenhair
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; старые комментарии"
+
+# @ maidenhair
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Новые Комментарии &rarr;"
+
+# @ maidenhair
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ maidenhair
+#: comments.php:42
+msgid "Your name"
+msgstr "Ваше имя"
+
+# @ maidenhair
+#: comments.php:43
+msgid "Website"
+msgstr "Веб сайт"
+
+# @ maidenhair
+#: comments.php:44
+msgid "Comment..."
+msgstr "Комментарий..."
+
+# @ maidenhair
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr "Оставить комментарий"
+
+# @ maidenhair
+#: content-archives-audio.php:19 content-archives-image.php:18
+#: content-archives-standard.php:21 content-archives-status.php:18
+#: content-archives-video.php:19 content-grid-audio.php:23
+#: content-grid-standard.php:25 content-grid-status.php:22
+#: content-grid-video.php:20 single.php:25
+msgid "Author: "
+msgstr "автор: "
+
+# @ maidenhair
+#: functions.php:149
+msgid "Video Thumbnail"
+msgstr "Видео Миниатюра"
+
+# @ maidenhair
+#: functions.php:161
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr "Вставьте полный URL Вашей Видео Миниатюра."
+
+# @ maidenhair
+#: functions.php:216
+msgid "Main Header Menu"
+msgstr "Основное меню шапки"
+
+#: functions.php:217
+msgid "Top Header Menu"
+msgstr "Верхнее меню шапки"
+
+#: functions.php:218
+msgid "Carousel Menu"
+msgstr "Carousel меню"
+
+# @ maidenhair
+#: functions.php:230
+msgid "Right Sidebar"
+msgstr "Правый Sidebar"
+
+# @ maidenhair
+#: functions.php:232
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Правый Sidebar с отображением всех записей и страниц."
+
+# @ maidenhair
+#: functions.php:239
+msgid "Footer left widget area"
+msgstr "Футера левая область"
+
+# @ maidenhair
+#: functions.php:241
+msgid "Left column with widgets in footer."
+msgstr "Виджет - левый столбец футера."
+
+# @ maidenhair
+#: functions.php:248
+msgid "Footer middle widget area"
+msgstr "Футера средняя область"
+
+# @ maidenhair
+#: functions.php:250
+msgid "Middle column with widgets in footer."
+msgstr "Виджет - средний столбец футера"
+
+# @ maidenhair
+#: functions.php:257
+msgid "Footer right widget area"
+msgstr "Футера правая область"
+
+# @ maidenhair
+#: functions.php:259
+msgid "Right column with widgets in footer."
+msgstr "Виджет - правый столбец футера."
+
+# @ maidenhair
+#: functions.php:266
+msgid "Footer notices"
+msgstr "Футера заметок область"
+
+# @ maidenhair
+#: functions.php:268
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Место для авторского права и других уведомлений в нижней области виджета "
+"колонтитула. Вставьте здесь один текстовый виджет. Поле название для этого "
+"виджета нужно оставить пустым."
+
+#: functions.php:275
+msgid "Homepage slideshow"
+msgstr "Слайдшоу на главной"
+
+#: functions.php:277
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Место для Cyclone Slider Widget, который осуществляет показ слайдов на Вашей "
+"главной странице."
+
+# @ maidenhair
+#: functions.php:296
+msgid "Read more"
+msgstr "ДАЛЕЕ"
+
+# @ maidenhair
+#: functions.php:343
+msgid "Post navigation"
+msgstr "Навигация записи"
+
+# @ maidenhair
+#: functions.php:351 search.php:32
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущая"
+
+# @ maidenhair
+#: functions.php:352 search.php:33
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Следующая &rarr;"
+
+# @ maidenhair
+#: functions.php:374
+msgid "&larr; Previous post"
+msgstr "&larr; Предыдущая запись"
+
+# @ maidenhair
+#: functions.php:376
+msgid "Next post &rarr;"
+msgstr "Следующая запись &rarr;"
+
+# @ maidenhair
+#: functions.php:394
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ maidenhair
+#: functions.php:394
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+# @ maidenhair
+#: functions.php:407
+msgid "(Post author)"
+msgstr "(Автор записи)"
+
+# @ maidenhair
+#: functions.php:413
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+# @ maidenhair
+#: functions.php:419
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ maidenhair
+#: functions.php:425
+msgid "Reply"
+msgstr "Ответить"
+
+# @ maidenhair
+#: functions.php:427 page.php:16 single.php:39
+#: template-full-width-without-sharing.php:17 template-full-width.php:17
+#: template-landing-page.php:16 template-sitemap.php:18
+#: template-without-sharing.php:17 template-without-title.php:18
+msgid "Edit"
+msgstr "Изменить"
+
+# @ maidenhair
+#: functions.php:535
+msgid "Install Recommended Plugins"
+msgstr "Установить необходимые плагины"
+
+# @ maidenhair
+#: functions.php:537
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s плагин необходим для этой темы. Нажмите на большую голубую кнопку ниже "
+"для инсталляции и активации плагина. %1$s."
+
+# @ maidenhair
+#: functions.php:538
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"%1$s установлен но не активирован. Перейдите <a href=\"%2$s\">страница "
+"управления плагином</a> для его активации."
+
+# @ maidenhair
+#: functions.php:539
+#, php-format
+msgid "Install %s Now"
+msgstr "Установить %s сейчас"
+
+# @ maidenhair
+#: functions.php:541
+msgid "Something went wrong with the plugin API."
+msgstr "Что пошло не так с API плагина."
+
+# @ maidenhair
+#: functions.php:542
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Для этой темы необходим %1$s плагин. <a href=\"%2$s\"><strong>Нажмите здесь "
+"для начала процесс установки</strong></a>. От вас могут потребоваться "
+"учетные записи FTP от вашего сервера."
+
+# @ maidenhair
+#: functions.php:543
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Извините, но вы не имеете текущих полномочий устанавливать %s плагин. "
+"Свяжитесь с администратором сайта для получения помощи в установке этого "
+"плагина."
+
+# @ maidenhair
+#: functions.php:544
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Для этой темы необходим %1$s плагин. Этот плагин сейчас неактивен, перейдите "
+"на <a href=\"%2$s\">страницу управления плагинами</a> для активации "
+"требуемого плагина."
+
+# @ maidenhair
+#: functions.php:545
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Извините, но Вы не имеете текущих полномочий активировать %s плагин. "
+"Свяжитесь с администратором сайта для получения помощи в активации этого "
+"плагина."
+
+# @ maidenhair
+#: functions.php:546
+msgid "Return to Recommended Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+# @ maidenhair
+#: functions.php:557
+msgid "MaidenHair"
+msgstr "MaidenHair"
+
+# @ maidenhair
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+# @ maidenhair
+#: search.php:13
+msgid "Number of Results: "
+msgstr "Номера записей: "
+
+# @ maidenhair
+#: search.php:24
+msgid "Search results navigation"
+msgstr "Навигация по результатам поиска"
+
+# @ maidenhair
+#: search.php:47
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствуют критериям поиска. Пожалуйста, "
+"попробуйте еще раз с использованием других ключевых слов."
+
+# @ maidenhair
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Искать здесь..."
+
+# @ maidenhair
+#: single.php:38
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ maidenhair
+#: tag.php:10
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Архив тегов: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Просмотреть увеличенное изображение"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Узнать подробнее"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Тип Презентация не поддерживается."
+
+# @ maidenhair
+#: functions/be/fw-options.php:1434
+msgid "settings reset."
+msgstr "сброса настроек."
+
+# @ maidenhair
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ maidenhair
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Не найдено расположение для введенного адреса."
+
+# @ maidenhair
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Неверный запрос. Вы ввели адрес?"
+
+# @ maidenhair
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Что-то пошло не так при получении Вашей карты, пожалуйста, убедитесь, что вы "
+"правильно ввели короткий код."
+
+# @ maidenhair
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Невозможно связаться со службой API Google."
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Отображает Facebook как Box."
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:14
+msgid "MaidenHair Facebook Like Box Widget"
+msgstr "MaidenHair Facebook как Box Widget"
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:67
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-social.php:92 functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "Facebook Page URL:"
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Вставьте здесь полный адрес вашей странице Facebook  (пример: http://www."
+"facebook.com/FacebookDevelopers)."
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Like Box Высота: (необязательно)"
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Сюда вставляем высоту для Like Box. Значение в пикселях, но и в области "
+"пишите только цифры (без символа \\ \\\"PX \")!"
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Показать Лица:"
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+"Укажите, следует ли отображать фотографии людей, которым нравиться страница."
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Показывать направления:"
+
+# @ maidenhair
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr ""
+"Укажите, следует ли отображать направления последних сообщений на странице."
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Отображает окно с Вашими текстом и значок."
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:14
+msgid "MaidenHair Info-Box"
+msgstr "MaidenHair Info-Box"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:41
+msgid "Icon:"
+msgstr "Иконка:"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:44
+msgid "Basket"
+msgstr "Корзина"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:45
+msgid "Book"
+msgstr "Книга"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:46
+msgid "Calendar"
+msgstr "Календарь"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:47
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "Comments"
+msgstr "Комментарии"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:48
+msgid "Download"
+msgstr "Скачать"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:49
+msgid "Envelope"
+msgstr "Конверт"
+
+#: functions/fe/widget-info-box.php:50
+msgid "Globe"
+msgstr "глобус"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:51
+msgid "Heart"
+msgstr "Сердце"
+
+#: functions/fe/widget-info-box.php:52
+msgid "Home"
+msgstr "домой"
+
+#: functions/fe/widget-info-box.php:53
+msgid "Notepad"
+msgstr "блокнот"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:54
+msgid "Pin"
+msgstr "штифт"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:55
+msgid "Star"
+msgstr "Звезда"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:56
+msgid "Tick"
+msgstr "Отметка"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:57
+msgid "User"
+msgstr "Пользователь"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:58
+msgid "none"
+msgstr "ни один"
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:61
+msgid "Select an icon which will be displayed beside the title."
+msgstr "Выберите значок, который будет отображаться в заголовке окна."
+
+# @ maidenhair
+#: functions/fe/widget-info-box.php:74
+msgid "Text:"
+msgstr "Текст:"
+
+# @ maidenhair
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Отображает последние записи из выбранной категории как колонка с выделением "
+"первой записи."
+
+# @ maidenhair
+#: functions/fe/widget-posts-column.php:14
+msgid "MaidenHair Posts-Column"
+msgstr "MaidenHair Posts-Column"
+
+# @ maidenhair
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Рубрика:"
+
+# @ maidenhair
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Выберите рубрику записей."
+
+# @ maidenhair
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Номера записей:"
+
+# @ maidenhair
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Здесь следует вставить номера последних записей из выбранной рубрики, "
+"которые вы хотите показать."
+
+# @ maidenhair
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr "Отображает последние записи из выбранной категории."
+
+# @ maidenhair
+#: functions/fe/widget-posts-default.php:14
+msgid "MaidenHair Posts-Default"
+msgstr "MaidenHair Posts-Default"
+
+# @ maidenhair
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Отображает последние записи из выбранной категории как таблицу."
+
+# @ maidenhair
+#: functions/fe/widget-posts-grid.php:14
+msgid "MaidenHair Posts-Grid"
+msgstr "MaidenHair Posts-Grid"
+
+# @ maidenhair
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Отображает последние записи из выбранной категории как список с выделением "
+"первой записи."
+
+# @ maidenhair
+#: functions/fe/widget-posts-list.php:14
+msgid "MaidenHair Posts-List"
+msgstr "MaidenHair Posts-List"
+
+# @ maidenhair
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Отображает последние записи из выбранной категории как слайдер."
+
+# @ maidenhair
+#: functions/fe/widget-posts-slider.php:14
+msgid "MaidenHair Posts-Slider"
+msgstr "MaidenHair Posts-Slider"
+
+# @ maidenhair
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Отображает последние записи из выбранной категории как эскизы."
+
+# @ maidenhair
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "MaidenHair Posts-Thumbnail"
+msgstr "MaidenHair Posts-Thumbnail"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:12
+msgid "A Social widget by MaidenHair"
+msgstr "Соц сети виджет от MaidenHair."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:14
+msgid "MaidenHair Social Widget"
+msgstr "MaidenHair Social Widget"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:99
+msgid "Twitter:"
+msgstr "Twitter:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:103
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Вставьте полный URL Вашей Twitter страницы."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:109
+msgid "Facebook:"
+msgstr "Facebook:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:113
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Вставьте полный URL Ваших Facebook страницы или группы."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:119
+msgid "RSS:"
+msgstr "RSS:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:123
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr ""
+"Вставьте URL Вашей RSS ленты. Вы можете включить Вашу RSS ленту от "
+"Feedburner."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:129
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:133
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Вставьте полный URL Вашей Google Plus страницы"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:139
+msgid "YouTube:"
+msgstr "YouTube:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:143
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Вставьте полный URL Вашей You Tube страницы."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:149
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:153
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Вставьте полный URL Вашей Linkedin страницы."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:159
+msgid "Delicious:"
+msgstr "Delicious:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:163
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Вставьте полный URL Вашей Delicious  страницы."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:169
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:173
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Вставьте полный URL Вашей Pinterest страницы."
+
+# @ maidenhair
+#: functions/fe/widget-social.php:179
+msgid "Flickr:"
+msgstr "Flickr:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:183
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Вставьте полный URL Вашей Flickr страницы."
+
+#: functions/fe/widget-social.php:189
+msgid "Instagram:"
+msgstr "Instagram:"
+
+# @ maidenhair
+#: functions/fe/widget-social.php:193
+msgid "Insert the full URL of your Instagram profile."
+msgstr "Вставьте полный URL Вашей Instagram страницы."
+
+# @ maidenhair
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by MaidenHair"
+msgstr "Twitter виджет от MaidenHair"
+
+# @ maidenhair
+#: functions/fe/widget-twitter.php:15
+msgid "MaidenHair Twitter Widget"
+msgstr "MaidenHair Twitter Widget"
+
+# @ maidenhair
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Присоединяйтесь к нам на Twitter"
+
+# @ maidenhair
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Twitter Имя пользователя:"
+
+# @ maidenhair
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: maidenhair)."
+msgstr "Вставьте Ваше Twitter имя пользователя. (пр: maidenhair)."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Дисплей популярные сообщения, последние сообщения, комментарии и теги в виде "
+"вкладок."
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+msgid "MaidenHair Tab Widget"
+msgstr "MaidenHair Tab Widget"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr "выбрать вкладки"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr "популярный"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr "недавний"
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+msgid "Comments Tab"
+msgstr "Комментарии"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr "теги"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr "вкладки порядок"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr "популярный"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr "недавний"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr "теги"
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+msgid "Advanced Options"
+msgstr "Дополнительные настройки"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr "Разрешить разбиение на страницы"
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+msgid "Number of posts to show:"
+msgstr "Номера записей:"
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr "Показывать эскизы"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr "Показывать дату"
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr "Показать количество комментариев"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr "Показать отрывок"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+msgid "Excerpt length (words):"
+msgstr "Отрывок длина (слов):"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr "Количество комментариев:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr "Показывать аватары"
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "No Comment"
+msgstr "0 Комментарии"
+
+# @ maidenhair
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "One Comment"
+msgstr "1 Комментарий"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr "Пока комментариев нет."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr "нет тегов"
+
+#: functions/be/fw-options.php:1011
+msgid "Upload Image"
+msgstr "загрузки изображение"
+
+#: functions/be/fw-options.php:983
+msgid "Save all changes"
+msgstr "Сохраните все изменения"
+
+#: functions/be/fw-options.php:989
+msgid "Reset to default settings"
+msgstr "Сброс настроек по умолчанию"

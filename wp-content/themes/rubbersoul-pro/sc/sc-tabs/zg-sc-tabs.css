@@ -1,0 +1,65 @@
+/*
+Estilos para tabs shortcodes.
+*/
+.contenedor_tab{
+	/*width:95%;*/
+	margin-top:14px;
+	margin-top:1rem;
+	padding:14px;
+	padding:1rem;
+}
+.contenedor_tab div {magin:0; padding:0;}
+#contenidos {
+	border: 1px solid #ccc;
+	padding: 14px 21px;
+	padding:1rem 1.5rem;
+	margin-top: 2px;  /*el primero que hay que ajustar */
+	margin-top:0.1428571428571429rem;
+}
+#contenidos p {
+	margin-bottom:14px;
+	margin-bottom:1rem;
+}
+ul.tabs {
+	font-family:Arial, Verdana;
+	font-size:18px;
+	font-size:1.285714285714286rem;
+	padding-left: 0;
+	list-style: none;
+	margin-bottom: 0 !important;
+}
+ul.tabs li {
+	display: inline;
+	margin: 0;
+}
+
+.contenido-tab {
+}
+ul.tabs li a {
+	padding: 7px 14px;
+	padding:0.5rem 1rem;
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-top-left-radius:5px;
+	border-top-left-radius:0.3571428571428571rem;
+	border-top-right-radius:5px;
+	border-top-right-radius:0.3571428571428571rem;
+	margin-right:5px;
+	margin-right:0.3571428571428571rem;
+	color:#444;
+	background-color: #ffffff; /* el color de fondo tiene que estar establecido para que desaparezca el borde inferior de la pestaña activa */
+}
+ul.tabs li a:visited {
+	color:#444;
+}
+ul.tabs li.t-activa a{
+	padding-bottom: 8px; /* padding de li a +1 */
+	padding-bottom:0.5714285714285714rem;
+	font-weight:bold;
+	border-top-width:2px;
+}
+.contenido_tab img{
+	margin:0 20px 20px 0;
+	/*border:1px solid #ddd;
+	padding:5px;*/
+}

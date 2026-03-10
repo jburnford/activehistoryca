@@ -1,0 +1,61 @@
+/*
+Estilos para tabs shortcodes.
+*/
+.contenedor_tab{
+	width:95%;
+	margin-top:14px;
+	margin-top:1rem;
+	padding:0 14px;
+	padding:0 1rem;
+	border-bottom:1px solid #E0E0E0;
+}
+#contenidos {
+	clear:both;
+	border-top: 1px solid #e0e0e0;
+	padding: 14px 21px;
+	padding:1rem 1.5rem;
+	margin-top: 10px;  /*el primero que hay que ajustar */
+	margin-top:0.7142857142857143rem;
+}
+#contenidos p {
+	margin-bottom:14px;
+	margin-bottom:1rem;
+}
+ul.tabs{
+	font-family:Arial, Verdana;
+	font-size:18px;
+	font-size:1.285714285714286rem;
+	padding:0;
+	width:100%;
+	list-style:none;
+	margin-bottom:0 !important;
+}
+ul.tabs li{
+	display:inline;
+	margin-bottom:0 !important;
+}
+ul.tabs li a{
+	color:inherit;
+	float:left;
+	text-decoration:none;
+	padding:7px 14px;
+	padding:0.5rem 1rem;
+	/*border-bottom:1px solid #E0E0E0;*/
+}
+ul.tabs li a:hover{
+}
+ul.tabs li.t-activa,ul.tabs li.t-activa a,ul.tabs li.t-activa a:hover {
+	font-weight:bold;
+	border-bottom:2px solid #e0e0e0;
+}
+.contenido_tab{
+	/*clear:both;
+	padding:14px;
+	padding:1rem;*/
+}
+.contenido_tab img{
+	margin:0 21px 21px 0;
+	margin:0 2.5rem 2.5rem 0;
+	/*border:1px solid #ddd;
+	padding:5px;*/
+}

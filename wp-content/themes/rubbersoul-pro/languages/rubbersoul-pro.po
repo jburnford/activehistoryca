@@ -1,0 +1,827 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RubberSoul Pro\n"
+"POT-Creation-Date: 2016-11-14 17:34+0100\n"
+"PO-Revision-Date: 2016-11-14 17:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:29
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:33
+msgid "Archives"
+msgstr ""
+
+#: author.php:30
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:61 content.php:117
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:13 content-image.php:11 content-link.php:12
+#: content-quote.php:11 content-status.php:29 content.php:71
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:18 content-link.php:16 content-quote.php:15
+#: content-status.php:13
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-aside.php:21 content-image.php:21 content-link.php:19
+#: content-quote.php:18 content-status.php:35
+msgid "Leave a reply"
+msgstr ""
+
+#: content-aside.php:21 content-image.php:21 content-link.php:19
+#: content-quote.php:18 content-status.php:35
+msgid "1 Reply"
+msgstr ""
+
+#: content-aside.php:21 content-image.php:21 content-link.php:19
+#: content-quote.php:18 content-status.php:35
+msgid "% Replies"
+msgstr ""
+
+#: content-aside.php:24 content-image.php:24 content-link.php:22
+#: content-page.php:27 content-quote.php:21 content-status.php:38
+#: content.php:98 functions.php:418 image.php:35
+#: page-templates/full-width-without-title.php:23
+msgid "Edit"
+msgstr ""
+
+#: content-link.php:10
+msgid "Link"
+msgstr ""
+
+#: content-none.php:11 index.php:49 search.php:32
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:15 index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: content-page.php:23 content.php:72 image.php:100
+#: page-templates/full-width-without-title.php:19
+msgid "Pages:"
+msgstr ""
+
+#: content.php:121
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:76
+msgid "by"
+msgstr ""
+
+#: footer.php:77
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:77
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:77
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:96
+msgid "Read more"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own language.
+#.
+#: functions.php:120
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans character subset specific to your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
+#.
+#: functions.php:126
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:245
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:247
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr ""
+
+#: functions.php:255
+msgid "RubberSoul: Above blog header"
+msgstr ""
+
+#: functions.php:256
+msgid "Above blog header"
+msgstr ""
+
+#: functions.php:265
+msgid "RubberSoul: Below main menu"
+msgstr ""
+
+#: functions.php:266
+msgid "Below main menu"
+msgstr ""
+
+#: functions.php:275
+msgid "RubberSoul: Below entries title"
+msgstr ""
+
+#: functions.php:276
+msgid "Appears below entries title"
+msgstr ""
+
+#: functions.php:285
+msgid "RubberSoul: End of entries"
+msgstr ""
+
+#: functions.php:286
+msgid "Appears at the end of entries content"
+msgstr ""
+
+#: functions.php:295
+msgid "RubberSoul: Above comments"
+msgstr ""
+
+#: functions.php:296
+msgid "Appears above comments"
+msgstr ""
+
+#: functions.php:305
+msgid "RubberSoul: Below comments"
+msgstr ""
+
+#: functions.php:306
+msgid "Appears below comments"
+msgstr ""
+
+#: functions.php:315
+msgid "RubberSoul: Footer left"
+msgstr ""
+
+#: functions.php:316
+msgid "Footer left"
+msgstr ""
+
+#: functions.php:324
+msgid "RubberSoul: Footer center"
+msgstr ""
+
+#: functions.php:325
+msgid "Footer center."
+msgstr ""
+
+#: functions.php:333
+msgid "RubberSoul: Footer right"
+msgstr ""
+
+#: functions.php:334
+msgid "Footer right"
+msgstr ""
+
+#: functions.php:357 single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:359
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:360
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:386
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:386
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:401
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:407
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:413
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:422
+msgid "Reply"
+msgstr ""
+
+#: functions.php:443 functions.php:446
+msgid ", "
+msgstr ""
+
+#: functions.php:457
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:463
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: functions.php:465
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: functions.php:467
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: image.php:24
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:39
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:40
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:162
+msgid "RubberSoul Pro"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:183
+msgid "Show title and description"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:191
+msgid "No change in capital title and description."
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:199
+msgid "Overflow logo"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:208
+msgid "Adjust the width of the logo to 60px"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:217
+msgid "Maintain transparency logo"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:226
+msgid "Logo square"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:235
+msgid "RubberSoul Pro Options"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:246
+msgid "Theme color, fonts and posts"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:255
+msgid "Select Theme Color"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:266
+msgid "White header"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:274
+msgid "Apply to entry title in excerpts"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:282
+msgid "Apply to the background color of the selected text."
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:290
+msgid "Apply RubberSoul Pro style to bbPress"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:301
+msgid "Select font"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:345
+msgid "Where do you want to show excerpts?"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:350
+msgid "Home and archive pages (Categories, Tags, Author, Archives)"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:351
+msgid "Only archive pages (Categories, Tags, Author, Archives)"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:352
+msgid "Always full content"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:362
+msgid "Excerpt's thumbnail image rounded"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:370
+msgid "Display breadcrumb above the entry title"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:378
+msgid "Display 'Back to top' button"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:386
+msgid "Show author post"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:394
+msgid "Show date"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:402
+msgid "Show comments"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:410
+msgid "Entry text justified"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:417
+msgid "Hide pages title"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:426
+msgid "Show related posts"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:430 template-parts/related-posts.php:30
+msgid "Related posts..."
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:432
+msgid "Related posts title"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:440
+msgid "Show navigation at the end of posts (links to previous and next posts)"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:450
+msgid "Slider of recent posts"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:451
+msgid ""
+"For the slider maintains a constant size with different images, featured "
+"image posts should have minimum dimensions of 720x360 pixels."
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:458
+msgid "Enable slider in front-page"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:465
+msgid "Forcing image adjustment"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:467
+msgid ""
+"This will make small images to fit the slider but the proportion of the "
+"images will not be correct on mobile devices"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:476
+msgid "Number of posts"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:496
+msgid "Sidebar and widgets areas"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:507
+msgid "Select sidebar position"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:512
+msgid "Left"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:513
+msgid "Right"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:523
+msgid ""
+"Widgets area at the end of post: Also display its contents in archive pages "
+"(category, tags, author and archive)"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:531
+msgid "Widgets area above comments: Also display its contents in pages"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:539
+msgid "Widgets area comments below: Also display its contents in pages"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:549
+msgid "Favicon and login logo"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:556
+msgid "Favicon (formats: ico, png or gif)"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:563
+msgid "Login logo"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:574
+msgid "Footer"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:581
+msgid "Enable footer widget areas"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:587
+msgid "Footer text left"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:594
+msgid "Footer text center"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:601
+msgid "Footer text right"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:609
+msgid "Hide theme and WordPress credits"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:619
+msgid "AddThis"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:627
+msgid "Enable AddThis"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:635
+msgid "Paste your AddThis code"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:643
+msgid "Enable AddThis Sharing Buttons"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:654
+msgid "Button type"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:670
+msgid "Below of entry title"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:677
+msgid "End of entry"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:694
+msgid "Enable Google Analytics"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:702
+msgid "Paste your Google Analytics code"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:712
+msgid "Social icons"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:719
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:726
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:733
+msgid "Google plus URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:740
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:747
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:754
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:761
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:768
+msgid "RSS URL"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:786
+msgid "Enable messages shortcode"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:793
+msgid "Enable buttoms shortcode"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:800
+msgid "Enable tabs shortcode"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:807
+msgid "Enable accordion shortcode"
+msgstr ""
+
+#: inc/rsoul-pro-customizer.php:814
+msgid "Enable shortcodes in widgets text"
+msgstr ""
+
+#: inc/rsoul-pro-functions.php:14
+msgid "Home"
+msgstr ""
+
+#: inc/rsoul-pro-functions.php:50
+msgid "&laquo; First"
+msgstr ""
+
+#: inc/rsoul-pro-functions.php:52
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: inc/rsoul-pro-functions.php:60
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: inc/rsoul-pro-functions.php:62
+msgid "Last &raquo;"
+msgstr ""
+
+#: inc/rsoul-widget-popular-posts.php:24
+msgid "Displays the most commented articles."
+msgstr ""
+
+#: inc/rsoul-widget-popular-posts.php:27
+msgid "(RubberSoul Pro) Popular posts"
+msgstr ""
+
+#: inc/rsoul-widget-popular-posts.php:33 inc/rsoul-widget-popular-posts.php:80
+msgid "Popular posts"
+msgstr ""
+
+#: inc/rsoul-widget-popular-posts.php:46
+#: inc/rsoul-widget-recent-comments.php:43
+#: inc/rsoul-widget-recent-posts.php:46
+#: inc/rsoul-widget-suscripcion-email.php:46
+msgid "Title"
+msgstr ""
+
+#: inc/rsoul-widget-popular-posts.php:51 inc/rsoul-widget-recent-posts.php:51
+msgid "Number of posts to display"
+msgstr ""
+
+#: inc/rsoul-widget-popular-posts.php:58 inc/rsoul-widget-recent-posts.php:58
+msgid "Rounded thumbnails"
+msgstr ""
+
+#: inc/rsoul-widget-recent-comments.php:21
+msgid "Displays the most recent comments."
+msgstr ""
+
+#: inc/rsoul-widget-recent-comments.php:24
+msgid "(RubberSoul) Recent comments"
+msgstr ""
+
+#: inc/rsoul-widget-recent-comments.php:30
+#: inc/rsoul-widget-recent-comments.php:77
+msgid "Recent comments"
+msgstr ""
+
+#: inc/rsoul-widget-recent-comments.php:48
+msgid "Number of comments to display"
+msgstr ""
+
+#: inc/rsoul-widget-recent-comments.php:55
+msgid "Rounded avatars"
+msgstr ""
+
+#: inc/rsoul-widget-recent-comments.php:118
+msgctxt "Recent comments widget"
+msgid "on"
+msgstr ""
+
+#: inc/rsoul-widget-recent-posts.php:24
+msgid "Displays recent posts."
+msgstr ""
+
+#: inc/rsoul-widget-recent-posts.php:27
+msgid "(RubberSoul Pro) Recent posts"
+msgstr ""
+
+#: inc/rsoul-widget-recent-posts.php:33 inc/rsoul-widget-recent-posts.php:79
+msgid "Recent posts"
+msgstr ""
+
+#: inc/rsoul-widget-suscripcion-email.php:24
+msgid "Email subscription form"
+msgstr ""
+
+#: inc/rsoul-widget-suscripcion-email.php:27
+msgid "(RubberSoul Pro) Subscription by email"
+msgstr ""
+
+#: inc/rsoul-widget-suscripcion-email.php:45
+msgid ""
+"Just to FeedBurner. Write only the name of the feed. By example, if url is "
+"'http://feeds.feedburner.com/MiFeed' write only MiFeed."
+msgstr ""
+
+#: inc/rsoul-widget-suscripcion-email.php:51
+msgid "Feed name"
+msgstr ""
+
+#: inc/rsoul-widget-suscripcion-email.php:56
+msgid "Description"
+msgstr ""
+
+#: inc/rsoul-widget-suscripcion-email.php:96
+msgid "Your email...."
+msgstr ""
+
+#: inc/rsoul-widget-suscripcion-email.php:99
+msgid "subscribe"
+msgstr ""
+
+#: index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:3 searchform.php:5 template-parts/menu-movil.php:12
+#: template-parts/menu-movil.php:14 template-parts/searchform-toggle.php:3
+#: template-parts/searchform-toggle.php:5
+msgid "Search"
+msgstr ""
+
+#: searchform.php:4 template-parts/menu-movil.php:13
+#: template-parts/searchform-toggle.php:4
+msgid "Search..."
+msgstr ""
+
+#: single.php:22
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: single.php:24
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: tag.php:19
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""

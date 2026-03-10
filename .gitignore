@@ -1,0 +1,30 @@
+# Credentials - never commit
+.kinsta_credentials
+*.credentials
+.env
+.env.*
+
+# Backups and dumps
+*.sql
+*.sql.gz
+*.tar.gz
+
+# WordPress uploads (16GB+ of media)
+wp-content/uploads/
+
+# Cache and temp files
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/wp-cache-config.php
+wp-content/advanced-cache.php
+wp-content/debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Error logs
+error_log

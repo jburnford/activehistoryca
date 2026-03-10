@@ -1,0 +1,30 @@
+/*
+Estilos para shortcodes de mensajes
+*/
+.mensaje {
+	padding:14px;
+	padding:1rem;
+	margin:14px 0;
+	margin:1rem 0;
+	border-radius:5px;
+}
+.mensaje-info {
+	border:1px solid #B7E4FB;
+	background-color:#E6F4FB; 
+	color:#074E70; 
+}
+.mensaje-ok {
+	border:1px solid #DBF0E6;
+	background-color:#EAF9F2;
+	color:#1D9D74;
+}
+.mensaje-alert {
+	border:1px solid #F9E8C5;
+	background-color:#FBF6DA;
+	color:#8A6D3B;
+}
+.mensaje-error {
+	border:1px solid #F7DEE5;
+	background-color:#f9f2f4;
+	color:#c7254e;
+}
