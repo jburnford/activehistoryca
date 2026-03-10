@@ -17,10 +17,11 @@ if ( have_posts() ) :
     // First post: hero
     the_post();
     $post_count++;
+    $hero_image = ah26_get_post_image_url( get_the_ID(), 'ah26-hero' );
     ?>
-    <article class="hero <?php echo has_post_thumbnail() ? '' : 'hero--no-image'; ?>">
-        <?php if ( has_post_thumbnail() ) : ?>
-            <?php echo get_the_post_thumbnail( null, 'ah26-hero', array( 'class' => 'hero__image' ) ); ?>
+    <article class="hero <?php echo $hero_image ? '' : 'hero--no-image'; ?>">
+        <?php if ( $hero_image ) : ?>
+            <img src="<?php echo esc_url( $hero_image ); ?>" alt="<?php the_title_attribute(); ?>" class="hero__image">
         <?php endif; ?>
 
         <div class="hero__content">
@@ -37,8 +38,7 @@ if ( have_posts() ) :
             </h2>
 
             <div class="hero__meta">
-                <?php echo esc_html( get_the_date() ); ?> &middot;
-                <?php the_author_posts_link(); ?>
+                <?php echo esc_html( get_the_date() ); ?>
             </div>
         </div>
     </article>

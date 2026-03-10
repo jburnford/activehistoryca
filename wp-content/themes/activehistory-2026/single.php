@@ -29,7 +29,17 @@ while ( have_posts() ) : the_post(); ?>
                 <h1 class="post-header__title"><?php the_title(); ?></h1>
 
                 <div class="post-header__meta">
-                    <span><?php the_author_posts_link(); ?></span>
+                    <?php
+                    $contributors = ah26_get_contributors();
+                    if ( $contributors ) : ?>
+                        <span class="post-header__contributors"><?php
+                            $links = array();
+                            foreach ( $contributors as $c ) {
+                                $links[] = '<a href="' . esc_url( get_term_link( $c ) ) . '">' . esc_html( $c->name ) . '</a>';
+                            }
+                            echo implode( ', ', $links );
+                        ?></span>
+                    <?php endif; ?>
                     <span><?php echo esc_html( get_the_date() ); ?></span>
                     <?php if ( comments_open() || get_comments_number() ) : ?>
                         <span>
@@ -57,27 +67,7 @@ while ( have_posts() ) : the_post(); ?>
     <?php endif; ?>
 
     <?php
-    // Author bio
-    $author_bio = get_the_author_meta( 'description' );
-    if ( $author_bio ) : ?>
-    <div class="container--narrow">
-        <div class="author-bio">
-            <div class="author-bio__avatar">
-                <?php echo get_avatar( get_the_author_meta( 'ID' ), 80 ); ?>
-            </div>
-            <div>
-                <div class="author-bio__name">
-                    <a href="<?php echo esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) ); ?>">
-                        <?php the_author(); ?>
-                    </a>
-                </div>
-                <div class="author-bio__description">
-                    <?php echo wpautop( get_the_author_meta( 'description' ) ); ?>
-                </div>
-            </div>
-        </div>
-    </div>
-    <?php endif; ?>
+    // Author bio omitted — real author bylines are in the post content ?>
 
     <?php
     // Post navigation

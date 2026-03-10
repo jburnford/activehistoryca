@@ -34,3 +34,7 @@ error_log
 
 # macOS resource forks
 __MACOSX/
+
+# Local dev
+docker-compose.yml
+db_data/

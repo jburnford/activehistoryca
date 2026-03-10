@@ -18,6 +18,9 @@
                 <button class="menu-toggle" aria-controls="mobile-navigation" aria-expanded="false" aria-label="<?php esc_attr_e( 'Menu', 'activehistory-2026' ); ?>">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
                 </button>
+                <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="site-logo">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/logo.jpg' ); ?>" alt="<?php bloginfo( 'name' ); ?>">
+                </a>
                 <div>
                     <h1 class="site-title">
                         <a href="<?php echo esc_url( home_url( '/' ) ); ?>"><span class="accent">Active</span>History</a>
