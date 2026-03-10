@@ -22,6 +22,9 @@ wp-content/wp-cache-config.php
 wp-content/advanced-cache.php
 wp-content/debug.log
 
+# Zip archives
+*.zip
+
 # OS files
 .DS_Store
 Thumbs.db
